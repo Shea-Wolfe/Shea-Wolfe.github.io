@@ -17,6 +17,12 @@ p {
     line-height: 1.6em;
 }
 
+#movielens {
+  color: #FFF;
+}
+#movielens:visited {
+  color: #FFF;
+}
 
 /*
  * -- Layout Styles --
