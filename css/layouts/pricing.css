@@ -16,7 +16,15 @@ h2, h3 {
 p {
     line-height: 1.6em;
 }
-
+#intro {
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
 #movielens {
   color: #FFF;
 }
@@ -49,7 +57,7 @@ p {
 
  #menu {
    height: 50px;
-   background: #8C2B37;
+   background: #8f282f;
    overflow: hidden;
    line-height: 50px;
  }
@@ -155,7 +163,7 @@ p {
  * By default, a header is black/white, and has some styles for its <h2> name.
  */
 .pricing-table-header {
-    background: #40070E;
+    background: #8f282f;
     color: #fff;
 }
     .pricing-table-header h2 {
